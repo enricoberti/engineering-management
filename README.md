@@ -190,7 +190,7 @@ Other books I haven't read:
 Here are some generic resources:
 
 - [Unintuitive Things I’ve Learned about Management](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.2z9av4pzs)
-- Lars Dalgaard, [Thoughts on Building Weatherproof Companies](http://a16z.com/2016/03/25/building-weatherproof-companies/): while originally aimed at startups CEOs, this article from Andreessen Horowitz's blog is a very inspiring read on what it takes to scale your team.
+- Lars Dalgaard, [Thoughts on Building Weatherproof Companies](https://a16z.com/thoughts-on-building-weatherproof-companies/): while originally aimed at startups CEOs, this article from Andreessen Horowitz's blog is a very inspiring read on what it takes to scale your team.
 
 ### General management resources
 
@@ -465,7 +465,7 @@ See my [professional-programming section about code reviews](https://github.com/
 
 See also the section about [Organizational structure](#organizational-structure)
 
-- Martin Casado, [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/) on the Andreessen Horowitz blog
+- Martin Casado, [Hire a VP of Engineering](https://a16z.com/hire-a-vp-of-engineering/) on the Andreessen Horowitz blog
   - The most important function of a VP of engineering is to build out the engineering team and set a startup’s engineering culture.
   - Competent engineering management should therefore be able to push the team towards more practical, incremental designs that can garner useful external feedback quickly — without compromising the long-term generality of the system. The VP’s role here is not producing the architecture, but ensuring that incremental release is a real requirement in the design process.
   - Strong engineering management tends to give their teams enough ownership and latitude that they are happy and fulfilled in driving the product forward.
@@ -528,7 +528,7 @@ See also the section about [Organizational structure](#organizational-structure)
   - Google employees get very little done because they are trapped in a maze of processes.
   - The culture focuses on consensus ("respect each other") and risk-avoidance at the expense of heroism or value-creating ideas/bets.
   - Each employee's mission is not about the customer but about serving a VP or a technical belief/process.
-  - Most managers are [peacetime managers](https://a16z.com/2011/04/14/peacetime-ceo-wartime-ceo/) and lack a sense of urgency.
+  - Most managers are [peacetime managers](https://a16z.com/peacetime-ceo-wartime-ceo/) and lack a sense of urgency.
   - There is a general lack of humility regarding the internal tech stack. The delusion of exceptionalism means that employees believe everything they do is perfect.
   - "Strategy is rarely articulated clearly (that would be career risk)"
 
@@ -943,7 +943,7 @@ Quotes:
 - [12 "Manager READMEs" from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 - 🎞 [What is your philosophy on leadership? How do you inspire your team to do their best?](https://www.youtube.com/watch?v=TQhns5AwAkA): beautiful sequence between Nelson Mandela (played by Morgan Freeman) and François Pienaar (Matt Damon).
 - [Why Software Development Requires Servant Leaders](https://adl.io/essays/why-software-development-requires-servant-leaders/)
-- Andreessen Horowitz, [Peacetime CEO/Wartime CEO](https://a16z.com/2011/04/14/peacetime-ceo-wartime-ceo/)
+- Andreessen Horowitz, [Peacetime CEO/Wartime CEO](https://a16z.com/peacetime-ceo-wartime-ceo/)
   - Peacetime CEO knows that proper protocol leads to winning. Wartime CEO violates protocol in order to win.
 - [Excerpts from One From Many, Dee Hock](https://twitter.com/zackkanter/status/1272200276015853569), Zack Kanter on Twitter.
   - Your first responsibility as a manager is to manage yourself: your integrity, character, ethics, knowledge, wisdom, temperament, words and acts.
@@ -1101,7 +1101,7 @@ See also [Data organization](#data-organization)
 ### Performance management
 
 - [Firing people](https://zachholman.com/talk/firing-people): Zach Holman's talk about his experience being fired from Github offers some great insights into a process that is rarely talked about.
-- [It’s Never Too Early to Fire](https://a16z.com/2017/05/24/on-firing-why-when-how/), Andreessen Horowitz.
+- [It’s Never Too Early to Fire](https://a16z.com/its-never-too-early-to-fire/), Andreessen Horowitz.
 - [Performance Reviews Are a Waste of Time](https://blog.bradfieldcs.com/performance-reviews-are-a-waste-of-time-87c88d7553b4): a good contrarian take on formal performance reviews
 - [The How and Why of Performance Review Calibration](https://lattice.com/library/the-how-and-why-of-performance-review-calibration)
 - [9 Box Grid: A Practitioner’s Guide](https://www.aihr.com/blog/9-box-grid/)
